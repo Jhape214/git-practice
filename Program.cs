@@ -326,10 +326,8 @@ namespace SimpleFileIOApp
                 Location = new Point(100, 20),
                 Size = new Size(260, 120),
                 Text = "Разработчик: Хаперскова Юлия Андреевна\n\n" +
-                      "Дата создания: 29.05.26\n\n" +
-                      "Группа: ИВТ-201\n\n" +
-                      "Метод: File.ReadAllText / File.WriteAllText\n\n" +
-                      "Версия: 1.0.0",
+                      "Дата создания: 30.05.26\n\n" ,
+                      
                 Font = new Font("Arial", 10)
             };
 
